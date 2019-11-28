@@ -11,8 +11,7 @@
 # Make me a heading size 1
 ### Make me a heading size 3
 
-<span style = "text-decoration: underline"> Put a line BELOW me! </span>
-
+<u> Put a line BELOW me! </u>
 
 
 <span style = "text-decoration: overline"> Put a line ABOVE me! </span>
